@@ -1,5 +1,5 @@
 # ImJoy Hybrid Desktop
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/imjoy-team/imjoy-hybrid-desktop/binder?urlpath=desktop)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dediminari/hybrid-desktop/binder?urlpath=desktop)
 [![Actions Status](https://github.com/imjoy-team/imjoy-hybrid-desktop/workflows/repo2docker/badge.svg)](https://github.com/imjoy-team/imjoy-hybrid-desktop/actions)
 
 
